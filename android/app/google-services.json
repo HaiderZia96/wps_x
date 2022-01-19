@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "520120960017",
+    "project_id": "wps-x-9e998",
+    "storage_bucket": "wps-x-9e998.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520120960017:android:cba2a8792cdd2735c6ddb0",
+        "android_client_info": {
+          "package_name": "com.example.wps_x"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520120960017-olknpj0fnhb9rji97kqvm4414ev3sqnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl1iLCQyMLmSjMD46jgq54TE-YRIfOHOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520120960017-olknpj0fnhb9rji97kqvm4414ev3sqnu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
